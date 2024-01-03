@@ -14,7 +14,7 @@ I created this blog just to document what I've learned
 
 <b>Fields of interest:</b>
 
-<p>      1.Domain Adaptation
+      1.Domain Adaptation <br>
       
       2.Semi-supervised Learing
       
@@ -24,8 +24,7 @@ I created this blog just to document what I've learned
       
       5.Classification
       
-      6.Segmentation</p>
-
+      6.Segmentation
 
 ### Contact me
 

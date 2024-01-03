@@ -12,7 +12,7 @@ I created this blog just to document what I've learned
 ### More Information
 
 
-Fields of interest
+Fields of interest:
   Domain Adaptation
   Semi-supervised Learing
   Un-supervised Learnig

@@ -12,13 +12,13 @@ I created this blog just to document what I've learned
 ### More Information
 
 
-<p>Fields of interest:
-  Domain Adaptation
-  Semi-supervised Learing
-  Un-supervised Learnig
-  Object Detection
-  Classification
-  Segmentation</p>
+<p>*Fields of interest:*
+      1.Domain Adaptation
+      2.Semi-supervised Learing
+      3.Un-supervised Learnig
+      4.Object Detection
+      5.Classification
+      6.Segmentation</p>
 
 
 ### Contact me

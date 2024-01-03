@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Unsupervised Domain adaptation Object Detection 
+title: UDA Object Detection 
+categories: list
 ---
 
 # Conference

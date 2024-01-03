@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UDA Object Detection 
-categories: list
+categories: list1
 ---
 
 # Conference

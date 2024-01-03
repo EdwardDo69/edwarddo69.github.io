@@ -11,7 +11,7 @@ I created this blog just to document what I've learned
 
 ### More Information
 
-'''
+''' sh
 Fields of interest:
   Domain Adaptation
   Semi-supervised Learing

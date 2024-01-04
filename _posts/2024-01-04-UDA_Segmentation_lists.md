@@ -14,5 +14,5 @@ categories: Paper_Lists
 
 ## NeurIPS
 
-**2023**
-- DaDA: Distortion-aware Domain Adaptation for Unsupervised Semantic Segmentation [[NeurIPS2023]](https://proceedings.neurips.cc/paper_files/paper/2022/file/76931eaba1fcb55b70cde7d0de0161ef-Paper-Conference.pdf) [[FDD Data]](https://sait-fdd.github.io/)
+**2022**
+- DaDA: Distortion-aware Domain Adaptation for Unsupervised Semantic Segmentation [[NeurIPS2022]](https://proceedings.neurips.cc/paper_files/paper/2022/file/76931eaba1fcb55b70cde7d0de0161ef-Paper-Conference.pdf) [[FDD Data]](https://sait-fdd.github.io/)

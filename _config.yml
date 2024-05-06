@@ -6,7 +6,7 @@
 name: Edward Do
 
 # Short bio or description (displayed in the header)
-description: Domain Adaptation
+description: AI research scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/EdwardDo69/edwarddo69.github.io/blob/bd81af4ae7e07d0c2cb0edfd9a668547b46ef05e/images/5x5.JPG?raw=true
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCK-Xq2c0NtUfBAWR4cKCW7A # channel/<your_long_string> or user/<user-name>
+  youtube: user/@edwarddo929 # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 

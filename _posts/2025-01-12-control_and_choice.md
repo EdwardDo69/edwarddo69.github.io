@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January_1st_CONTROL_AND_CHOICE
+title: January 1st CONTROL AND CHOICE
 categories: The_Daily_Stoic
 ---
 ##January 1st CONTROL AND CHOICE

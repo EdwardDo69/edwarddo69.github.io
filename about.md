@@ -10,8 +10,11 @@ What we know is a drop, what we don't know is an ocean.
 ```
 
 Name: Do Dinh Phat
+
 Nationality: Vietnamese
+
 Affiliation: Ph.D. Student, School of Electrical Engineering, Korea University, Seoul, Republic of Korea
+
 Email: phatai@korea.ac.kr; dodinhphat98@gmail.com
 
 

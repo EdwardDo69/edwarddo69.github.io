@@ -9,6 +9,10 @@ What we know is a drop, what we don't know is an ocean.
                                     ― Isaac Newton ―
 ```
 
+Name: Do Dinh Phat
+Nationality: Vietnamese
+Affiliation: Ph.D. Student, School of Electrical Engineering, Korea University, Seoul, Republic of Korea
+Email: phatai@korea.ac.kr; dodinhphat98@gmail.com
 
 
 ### More Information
@@ -18,6 +22,12 @@ What we know is a drop, what we don't know is an ocean.
 
 <b>Reviewer:</b> NeurIPS, CVPR
 
+
+### Patent
+
+1. Domain-adaptive object detection method and apparatus. J Kim, K Cho, K Lee, W Hwang, T Kim, DP Do - US Patent App. 19/088,191, 2025 (Pending)
+
+2. Multi-domain object detection method and apparatus. J Kim, K Lee, K Cho, M JIN, W Hwang, T Kim, S Yu… - US Patent App. 19/035,188, 2025 (Pending)
 
 ### International Conference
 

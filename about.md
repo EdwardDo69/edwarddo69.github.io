@@ -52,7 +52,3 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 23313
 
 5. 한준환, 도딘팟 (Do Dinh Phat), 황원준, "차등적 도메인 정렬을 통한 다중 소스 도메인 적응 물체 검출기," 제 32회 신호처리합동학술대회, Sept. 2022
 
-
-### Contact me
-
-[dodinhphat98@gmail.com](mailto:dodinhphat98@gmail.com)

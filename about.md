@@ -9,17 +9,17 @@ What we know is a drop, what we don't know is an ocean.
                                     ― Isaac Newton ―
 ```
 
-Name: Do Dinh Phat
+<b>Name:</b> Do Dinh Phat
 
-Nationality: Vietnamese
+<b>Nationality:</b> Vietnamese
 
-Affiliation: Ph.D. Student, School of Electrical Engineering, Korea University, Seoul, Republic of Korea
+<b>Affiliation:</b> Ph.D. Student, School of Electrical Engineering, Korea University, Seoul, Republic of Korea
 
-Email: phatai@korea.ac.kr; dodinhphat98@gmail.com
+<b>Email:</b> phatai@korea.ac.kr; dodinhphat98@gmail.com
+
 
 
 ### More Information
-
 
 <b>Fields of interest:</b> Domain Adaptation, Semi-supervised Learing, Un-supervised Learning, Object Detection, Thermal Object Detection
 
